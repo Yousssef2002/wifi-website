@@ -1,0 +1,4 @@
+CREATE TABLE wifidb_table (
+    email VARCHAR(255) NOT NULL,
+    password VARCHAR(255) NOT NULL
+);
